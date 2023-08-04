@@ -1275,8 +1275,8 @@ select {
   --tw-bg-opacity: 0.8;
 }
 
-.bg-\[url\(\'\/src\/img\/front\.jpg\'\)\] {
-  background-image: url('/src/img/front.jpg');
+.bg-\[url\(\'\/images\/front\.jpg\'\)\] {
+  background-image: url('/images/front.jpg');
 }
 
 .bg-cover {

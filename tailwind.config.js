@@ -1,11 +1,11 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: ["index.html"],
   darkMode: 'class',
   theme: {
     extend: {
       backgroundImage: {
-        'front': "url('/src/img/front.jpg')",
+        'front': "url('/images/front.jpg')",
       },
       height: {
         '128': '38rem',
